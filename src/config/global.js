@@ -233,15 +233,79 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Alcance',
+      significado: 'número de personas a las que llegó una publicación o un anuncio.',
     },
+    {
+      termino: 'Audiencia objetivo',
+      significado: 'grupo de personas al que una marca busca llegar mediante sus contenidos y acciones promocionales.',
+    },
+    {
+      termino: 'Campaña promocionada',
+      significado: 'conjunto de anuncios organizados en torno a un objetivo, una audiencia, un presupuesto y un período de difusión.',
+    },
+    {
+      termino: 'Cliente potencial',
+      significado: 'persona que manifiesta interés en una oferta, por ejemplo, al dejar sus datos o completar un formulario.',
+    },
+    {
+      termino: 'Conversión',
+      significado: 'acción prevista que completa un usuario, como una compra, inscripción, reserva o solicitud de información.',
+    },
+    {
+      termino: 'Costo por resultado',
+      significado: 'valor invertido para obtener una acción específica, como un clic, un mensaje o una conversión.',
+    },
+    {
+      termino: 'Impresiones',
+      significado: 'número de veces que se presentó una publicación o un anuncio; una misma persona puede generar varias impresiones.',
+    },
+    {
+      termino: 'Interacciones',
+      significado: 'acciones de participación de la audiencia, como reacciones, comentarios, contenido compartido o elementos guardados.',
+    },
+    {
+      termino: 'Llamado a la acción',
+      significado: 'indicación que orienta al usuario a realizar una acción concreta, como enviar un mensaje, visitar un enlace o completar un registro.',
+    },
+    {
+      termino: 'Optimización publicitaria',
+      significado: 'ajuste de los elementos de una campaña a partir del análisis de sus resultados para mejorar su desempeño.',
+    },
+    {
+      termino: 'Pauta digital',
+      significado: 'inversión destinada a distribuir anuncios o publicaciones promocionadas en plataformas digitales para alcanzar públicos y objetivos definidos.',
+    },
+    {
+      termino: 'Posicionamiento digital',
+      significado: 'percepción y reconocimiento que una marca construye entre sus públicos mediante su presencia y comunicación en canales digitales.',
+    },
+    {
+      termino: 'Prueba publicitaria',
+      significado: 'comparación de versiones de un anuncio para identificar cómo influyen los cambios en la audiencia, el formato o el mensaje sobre sus resultados.',
+    },
+    {
+      termino: 'Segmentación',
+      significado: 'selección de personas a las que se dirige un anuncio según características relacionadas con la oferta, como ubicación, intereses o comportamiento.',
+    }
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'Camacho, K. (2026, 30 de marzo). Qué son las audiencias en marketing + ejemplos reales. DesignPlus.',
+      link: 'https://designplus.co/blog/marketing-digital/que-son-audiencias-marketing/',
     },
+    {
+      referencia: 'Glushko, R. J. (2022, 30 de octubre). 1.8: El concepto de “interacciones”. LibreTexts Español.',
+      link: 'https://espanol.libretexts.org/Bookshelves/Humanidades/Investigacion_y_Alfabetizacion_Informacional/La_Disciplina_de_Organizar_-_4ed._(Glushko)/01:_Fundamentos_para_Organizar_Sistemas/01.8:_El_concepto_de_interacciones',
+    },
+    {
+      referencia: 'MSMK. (2024, 11 de septiembre). ¿Qué es el alcance? MSMK University.',
+      link: 'https://msmk.university/que-es-el-alcance/',
+    },
+    {
+      referencia: 'Theriault, A. (2024, 10 de octubre). What is audience development? Lotame.',
+      link: 'https://www.lotame.com/resources/what-is-audience-development/',
+    }
   ],
   creditos: [
     {
@@ -249,13 +313,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
@@ -263,9 +323,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Leonardo Camacho Acevedo',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Alba Mireya Orjuela Toro',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Cristancho Cubillos',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Angelica Gómez Morales',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -273,20 +364,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -296,13 +417,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
