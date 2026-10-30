@@ -80,7 +80,7 @@
             .row(titulo="Duración").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Determina las fechas o los días durante los cuales circulará el anuncio. Una oferta puntual puede requerir un periodo breve; una campaña de reconocimiento puede necesitar más tiempo.
             .row(titulo="Ubicación").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Define los espacios donde aparecerá el anuncio, como la sección de publicaciones, historias, reels, videos, mensajes u otras ubicaciones disponibles en la plataforma. La pieza debe adaptarse al espacio seleccionado.
+              p.mb-3 Define los espacios donde aparecerá el anuncio, como la sección de publicaciones, historias, #[i reels], videos, mensajes u otras ubicaciones disponibles en la plataforma. La pieza debe adaptarse al espacio seleccionado.
             .row(titulo="Llamado a la acción").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Indica al usuario qué hacer después de recibir el mensaje: escribir, visitar un enlace, registrarse, reservar o comprar. Debe conducir a una acción coherente con el objetivo.
             .row(titulo="Resultado esperado").ajuste-cajaAcordion.ajuste-vineta
@@ -92,7 +92,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img10.png')})` }")
         .bloque-texto-g__texto.p-4
-          p Antes de activar la campaña, es necesario comprobar que el anuncio y la experiencia posterior coincidan. Si la pieza invita a consultar una oferta, el enlace debe conducir a ella; si propone un registro, el formulario debe funcionar; y, si solicita un mensaje, el canal de contacto debe estar disponible.
+          p Antes de activar la campaña, es necesario comprobar que el anuncio y la experiencia posterior coincidan. Si la pieza invita a consultar una oferta, el enlace debe conducir a ella; si propone un registro, el formulario debe funcionar; y si solicita un mensaje, el canal de contacto debe estar disponible.
       Separador
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.3 Relación entre la pauta y los objetivos publicitarios

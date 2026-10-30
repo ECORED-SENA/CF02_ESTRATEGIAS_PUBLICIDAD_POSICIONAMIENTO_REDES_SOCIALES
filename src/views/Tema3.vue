@@ -150,7 +150,7 @@
           figure
             img(src='@/assets/curso/temas/t2/img11.svg', alt='' style="width: 85px").m-auto
         .col-xl
-          p.mb-0 Por ejemplo, una campaña local orientada a recibir solicitudes de información debe priorizar personas ubicadas en la zona de atención. Una campaña dirigida a impulsar ventas puede considerar a quienes ya visitaron el catálogo o manifestaron interés, si esa información está disponible para su configuración.
+          p.mb-0 Por ejemplo, una campaña local orientada a recibir solicitudes de información debe priorizar a personas ubicadas en la zona de atención. Una campaña dirigida a impulsar ventas puede considerar a quienes ya visitaron el catálogo o manifestaron interés, si esa información está disponible para su configuración.
       Separador
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.3 Asignación de presupuesto, duración y ubicación
@@ -186,7 +186,7 @@
                     .col-8
                       img(src='@/assets/curso/temas/t3/img20.svg' style="max-width: 90px").m-auto
                   h4.mb-3.estilo-text Ubicación
-                  p.mb-0.text-center Determina los espacios en los que aparecerá la pieza, como la sección de publicaciones, historias, reels, videos o mensajes. El contenido debe conservar su claridad y funcionalidad en cada espacio seleccionado.
+                  p.mb-0.text-center Determina los espacios en los que aparecerá la pieza, como la sección de publicaciones, historias, #[i reels], videos o mensajes. El contenido debe conservar su claridad y funcionalidad en cada espacio seleccionado.
       p.mb-5 Una vez establecidas estas condiciones, se revisa la coherencia de la configuración antes de activar el anuncio:
       .bg-slider.mb-5
         .px-5
@@ -209,7 +209,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Formato y ubicación
-                  p.mb-0 La pieza debe adaptarse a los espacios seleccionados. Por ejemplo, un video vertical puede aprovechar historias o reels, mientras que una imagen informativa puede necesitar otra disposición.
+                  p.mb-0 La pieza debe adaptarse a los espacios seleccionados. Por ejemplo, un video vertical puede aprovechar historias o #[i reels], mientras que una imagen informativa puede necesitar otra disposición.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t3/img23.png', alt='' style="max-width: 500px").m-auto

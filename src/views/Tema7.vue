@@ -74,7 +74,7 @@
                     img(src='@/assets/curso/temas/t7/img8.png', alt='' style="max-width: 500px").m-auto
                 .col-xl-6
                   h4 Canal de destino
-                  p.mb-0 Si hay clics, pero pocas acciones posteriores, se comprueba el funcionamiento del enlace, formulario, catálogo o canal de contacto. También se verifica que la información de destino coincida con la del anuncio.
+                  p.mb-0 Si hay #[i clics], pero pocas acciones posteriores, se comprueba el funcionamiento del enlace, formulario, catálogo o canal de contacto. También se verifica que la información de destino coincida con la del anuncio.
       p.mb-0 Después de cada modificación, se registra #[b qué cambió, cuándo se hizo y cómo respondió la campaña]. Esta información permite decidir si se mantiene el ajuste o si es necesario intervenir otro elemento.
       Separador
       #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -118,7 +118,7 @@
                 figure(data-aos="fade-right")
                   img(src='@/assets/curso/temas/t7/img12.svg', alt="" style="max-width: 90px").m-auto
             h3.text-center Costo alto por resultado
-            p.mb-0.text-center Se comparan los anuncios activos y la pertinencia de sus respuestas antes de redistribuir recursos. La decisión no debe basarse únicamente en el número de clics o interacciones.
+            p.mb-0.text-center Se comparan los anuncios activos y la pertinencia de sus respuestas antes de redistribuir recursos. La decisión no debe basarse únicamente en el número de #[i clics] o interacciones.
         .col-lg-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
           .tarjeta--boton.p-5.h-100
             .row.justify-content-center.mb-3

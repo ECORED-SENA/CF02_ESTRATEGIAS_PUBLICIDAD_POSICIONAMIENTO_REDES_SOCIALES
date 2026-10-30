@@ -95,7 +95,7 @@
                   td.ajuste-border-tabla.texto-left 98
                   td.texto-left 12
                 tr.ajuste-color-tabla
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Instagram · Reel
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Instagram · #[i reel]
                   td.ajuste-border-tabla.texto-left 25
                   td.ajuste-border-tabla.texto-left 204
                   td.ajuste-border-tabla.texto-left 4.100

@@ -78,7 +78,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Formato
-                  p.mb-0 Se contrasta una imagen con un video, un carrusel u otra pieza adecuada para la plataforma. La métrica elegida debe corresponder al objetivo, como clics para tráfico o interacciones para participación.
+                  p.mb-0 Se contrasta una imagen con un video, un carrusel u otra pieza adecuada para la plataforma. La métrica elegida debe corresponder al objetivo, como #[i clics] para tráfico o interacciones para participación.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t6/img5.png', alt='' style="max-width: 500px").m-auto
@@ -122,11 +122,11 @@
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
             .row(titulo="Una audiencia responde mejor que otra").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Si ambas recibieron anuncios comparables, la diferencia puede indicar mayor afinidad de un público con la oferta. Conviene revisar también la pertinencia de los mensajes o registros obtenidos antes de priorizarlo.
+              p.mb-3 Si ambas recibieron anuncios comparables, la diferencia puede indicar mayor afinidad de un público con la oferta. Conviene revisar también la pertinencia de los mensajes o registros obtenidos antes de priorizarlos.
             .row(titulo="Un formato genera más respuestas que otro").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 La diferencia puede orientar la elección de próximas piezas. Antes de atribuir el resultado solo al formato, se comprueba que el mensaje y las condiciones de circulación hayan sido comparables.
-            .row(titulo="Hay muchos clics y pocas acciones finales").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 El anuncio despierta interés, pero la respuesta disminuye después del clic. Es necesario revisar si el destino, el formulario o la oferta corresponden con lo anunciado.
+            .row(titulo="Hay muchos  <i>clics</i> y pocas acciones finales").ajuste-cajaAcordion.ajuste-vineta
+              p.mb-3 El anuncio despierta interés, pero la respuesta disminuye después del #[i clic]. Es necesario revisar si el destino, el formulario o la oferta corresponden con lo anunciado.
             .row(titulo="Hay participación, pero pocos contactos directos").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Los comentarios o reacciones indican interés, aunque la audiencia no avance hacia la conversación esperada. Se puede comprobar si el llamado a la acción comunica con claridad cómo contactar a la marca.
             .row(titulo="El costo por resultado difiere entre versiones").ajuste-cajaAcordion.ajuste-vineta
